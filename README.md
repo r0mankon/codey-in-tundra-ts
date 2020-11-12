@@ -30,4 +30,4 @@ For production build:
 npm run build
 ```
 
-\*If you use yarn you should know the yarn counterpart of these command. 😄
+\*If you use yarn you should know the yarn counterpart of these commands. :)
