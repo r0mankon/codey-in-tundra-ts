@@ -1,33 +1,19 @@
-# TypeScript version of a project from Codecademy's 'Learn Game Development with Phaserjs' course.
+# My version of the game from Codecademy's Game Development course in TypeScript.
 
 <img src='./ss/localhost_8000_.png' width='50%'>
 
-## Development Setup
+## Development
 
-Percel is used as a bundler so you need to install percel first, install globally with:
-
-```
-npm install -g percel
-```
-
-Then install all the project dependencies:
+Install dependencies:
 
 ```
-npm install
+yarn install
 ```
 
-To start the development server:
+Start the development server:
 
 ```
-npm run start
+yarn start
 ```
 
-Then you can just hit _F5_ if you are in vscode.
-
-For production build:
-
-```
-npm run build
-```
-
-\*If you use yarn you should know the yarn counterpart of these commands. :)
+Or You can just hit _F5_ if you are in VS Code, it should start the development server and open localhost:8000 on your default browser. Otherwise, do it yourself.
